@@ -42,9 +42,9 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 ---
 
 ## Languages
-- 🇫🇷 **French** — Native
-- 🇷🇺 **Russian** — C2  
-- 🇬🇧 **English** — B2 / C1  
+- 🇫🇷 **French** - Native
+- 🇷🇺 **Russian** - C2  
+- 🇬🇧 **English** - B2 / C1  
 
 ---
 
