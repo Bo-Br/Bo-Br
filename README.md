@@ -1,39 +1,39 @@
 # 👋 À propos de moi
 
-Passionné par la programmation depuis l’âge de **13 ans**, j’ai commencé avec la programmation visuelle sur **Construct 2/3**, où j’ai créé plusieurs petits jeux publiés sur la plateforme indie **itch.io**.  
+I have a passion for coding since **13 years old**, I started with visual programming on **Construct 2/3**, where I created a lot of small projects, a small amout of which I posted on **itch.io**.  
 
-Depuis le milieu de **2025**, je m’intéresse au moteur **Godot** et au développement de jeux plus avancé.
+Since june **2025**, I'm learning **Godot**, a more complex game engine.
 
-Curieux de **cybersécurité**, j’ai exploré plusieurs distributions Linux telles que **Linux Mint**, **Tails** et **Kali Linux**, et acquis des bases en **OSINT** et **pentesting**.
+Curious about **Cybersecurity**, I explored a lot of Linux distributions such as linux **Mint**, **Kali** or **Tails**, and aquired some basic knowledge in **OSINT** and **pentesting**.
 
-En parallèle de l’informatique, j’adopte un mode de vie sain, pratique régulièrement du sport et explore divers hobbies créatifs comme la **musique** et les **tours de cartes**.
+In parallel of Informational technologies, I have a lot of other interests such as **music**, **magic tricks**, and **sport**.
 
-Actuellement en **première année à l’École IT**, je suis toujours avide d’apprendre et de découvrir de nouvelles technologies.
-
----
-
-## Compétences
-
-### Compétences personnelles
-- Bonne communication  
-- Esprit d’équipe  
-- Capacité d’adaptation  
-- Dynamisme et rigueur  
-- Ponctualité  
-- Esprit critique  
+I am now at my first year in a IT school **"École IT"**, and I always search for new knowledge nad opportunities !
 
 ---
 
-### Informatique & Développement
+## Skills 
+
+### Personality
+- Good comunication
+- Team friendly
+- Ability for adaptation
+- Dinamic
+- Always on time
+- Critical thinking
+
+---
+
+### IT and Dev
 - **Python**
 - **SQL**
 - **Git**
-- **HTML / CSS / PHP** *(bases)*
-- **Suite Office** (Word, Excel, PowerPoint)
+- **HTML / CSS / PHP** *(basic for now)*
+- **Microsoft Office** (Word, Excel, PowerPoint)
 
 ---
 
-### Création multimédia
+### Media creation
 - DaVinci Resolve  
 - OBS Studio  
 - Audacity  
@@ -41,18 +41,20 @@ Actuellement en **première année à l’École IT**, je suis toujours avide d�
 
 ---
 
-## Langues
-- 🇫🇷 **Français** — Natif  
-- 🇷🇺 **Russe** — C2  
-- 🇬🇧 **Anglais** — B2 / C1  
+## Languages
+- 🇫🇷 **French** — Native
+- 🇷🇺 **Russian** — C2  
+- 🇬🇧 **English** — B2 / C1  
 
 ---
 
-## Objectifs
-- Approfondir le développement logiciel et le game dev  
-- Développer mes compétences en cybersécurité  
-- Participer à des projets concrets et collaboratifs  
+## Goals
+- Dive deeper into my understanding of programming
+- Developing my skills and knowledge in Cybersecurity 
+- Participate in projects involving teamwork  
 
 ---
 
-*N’hésite pas à me contacter ou à consulter mes projets !*
+*Don't hesitate contacting me !*
+
+#### mede without chat gpt btw :)
