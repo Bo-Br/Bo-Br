@@ -4,7 +4,7 @@ I have a passion for coding since **13 years old**, I started with visual progra
 
 Since june **2025**, I'm learning **Godot**, a more complex game engine.
 
-Curious about **Cybersecurity**, I explored a lot of Linux distributions such as linux **Mint**, **Kali** or **Tails**, and aquired some basic knowledge in **OSINT** and **pentesting**.
+Curious about **Cybersecurity**, I explored a lot of Linux distributions such as linux **Mint**, **Kali** or **Tails**, and aquired some basic knowledge in **OSINT** with tools like *Sherlock*, or just simply *Google* (cause it's about ***open source** intelligence*, right?).
 
 ***Well, there's a kinda funny update :*** 
 
