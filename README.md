@@ -30,9 +30,15 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 
 ### IT and Dev
 - **Python**
-- **SQL**
-- **Git**
+  - [Python Project GitHub](https://github.com/Bo-Br/Python-Password-Generator)
+    
 - **HTML / CSS / javascript + API Manipulation** 
+  - [Web Project GitHub](https://github.com/Bo-Br/web_project_test)
+    
+- **SQL**
+
+- **Git**
+
 - **Microsoft Office** (Word, Excel, PowerPoint)
 
 ---
