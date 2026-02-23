@@ -7,7 +7,8 @@ Since june **2025**, I'm learning **Godot**, a more complex game engine.
 Curious about **Cybersecurity**, I explored a lot of Linux distributions such as linux **Mint**, **Kali** or **Tails**, and aquired some basic knowledge in **OSINT** and **pentesting**.
 
 ***Well, there's a kinda funny update :*** 
--since I started Web Dev in January 2026 I am beginning to enjoy it to a point where I am even thinking to maybe work in this field, instead of doing cybersecurity.
+
+- since I started Web Dev in January 2026 I am beginning to enjoy it to a point where I am even thinking to maybe work in this field, instead of doing cybersecurity.
 
 In parallel of Informational technologies, I have a lot of other interests such as **music**, **magic tricks**, and **sport**.
 
