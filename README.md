@@ -28,7 +28,7 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 - **Python**
 - **SQL**
 - **Git**
-- **HTML / CSS / PHP** *(basic for now)*
+- **HTML / CSS / javascript + API Manipulation** 
 - **Microsoft Office** (Word, Excel, PowerPoint)
 
 ---
