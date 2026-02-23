@@ -1,4 +1,4 @@
-# 👋 À propos de moi
+# 👋 About me
 
 I have a passion for coding since **13 years old**, I started with visual programming on **Construct 2/3**, where I created a lot of small projects, a small amout of which I posted on **itch.io**.  
 
