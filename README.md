@@ -30,10 +30,12 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 
 ### IT and Dev
 - **Python**
-  - [Python Project GitHub](https://github.com/Bo-Br/Python-Password-Generator)
+  - CLI password generator with customizable length and parameters, input validation, and JSON-based data storage with categorized entries.
+  - [GitHub link](https://github.com/Bo-Br/Python-Password-Generator)
     
-- **HTML / CSS / javascript + API Manipulation** 
-  - [Web Project GitHub](https://github.com/Bo-Br/web_project_test)
+- **HTML / CSS / javascript + API Manipulation**
+  - Responsive web page using fetch API, async/await, DOM manipulation and basic error handling.
+  - [GitHub link](https://github.com/Bo-Br/web_project_test)
     
 - **SQL**
 
