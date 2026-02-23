@@ -57,4 +57,4 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 
 *Don't hesitate contacting me !*
 
-###### made without chat gpt btw :)
+###### made without AI btw :)
