@@ -8,7 +8,7 @@ Curious about **Cybersecurity**, I explored a lot of Linux distributions such as
 
 In parallel of Informational technologies, I have a lot of other interests such as **music**, **magic tricks**, and **sport**.
 
-I am now at my first year in a IT school **"École IT"**, and I always search for new knowledge nad opportunities !
+I am now at my first year in a IT school **"École IT"**, and I always search for new knowledge and opportunities !
 
 ---
 
