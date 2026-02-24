@@ -30,7 +30,7 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 
 ### IT and Dev
 - **Python**
-  - CLI password generator with customizable length and parameters, input validation, and JSON-based data storage with categorized entries.
+  - CLI password generator with customizable length and parameters, input validation, secrets module, and JSON-based data storage with categorized entries.
   - [GitHub link](https://github.com/Bo-Br/Python-Password-Generator)
     
 - **HTML / CSS / javascript + API Manipulation**
