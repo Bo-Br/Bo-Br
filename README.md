@@ -36,6 +36,9 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 - **HTML / CSS / javascript + API Manipulation**
   - **Level** 1️⃣ : Responsive web page using fetch API, async/await, DOM manipulation and basic error handling.
   - [GitHub link](https://github.com/Bo-Br/web_project_test)
+  - **Level** 2️⃣ : Responsive web Portfolio using fetch API, async/await, DOM manipulation, error handling, local storage and local .json database manipulation...
+  - ...IN PROGRESS...
+  - [GitHub link](https://github.com/Bo-Br/My-Portfolio_WebPrj)
     
 - **SQL**
 
