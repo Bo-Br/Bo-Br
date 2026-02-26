@@ -29,24 +29,37 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 ---
 
 ### IT and Dev
-- **Python**
-  - **Level** 1️⃣ : CLI password generator with customizable length and parameters, input validation, secrets module, and JSON-based data storage with categorized entries.
-  - [GitHub link](https://github.com/Bo-Br/Python-Password-Generator)
-    
-- **HTML / CSS / javascript + API Manipulation**
-  - **Level** 1️⃣ : Responsive web page using fetch API, async/await, DOM manipulation and basic error handling.
-  - [GitHub link](https://github.com/Bo-Br/web_project_test)
-  - **Level** 2️⃣ : Responsive web Portfolio using fetch API, async/await, DOM manipulation, error handling, local storage and local .json database manipulation...
-  - ...IN PROGRESS...
-  - [GitHub link](https://github.com/Bo-Br/My-Portfolio_WebPrj)
-    
-- **SQL**
 
-- **Git**
 
-- **Microsoft Office** (Word, Excel, PowerPoint)
+
+
+**Python**
+
+|Level            |Description                                                                                                                                              |Link                                                             |
+|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|
+|  **Level** 1️⃣   | CLI password generator with customizable length and parameters, input validation, secrets module, and JSON-based data storage with categorized entries. |[GitHub link](https://github.com/Bo-Br/Python-Password-Generator)|
+
+**HTML / CSS / javascript + API Manipulation**
+
+|Level     | Description |Link|
+|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
+|  **Level** 1️⃣   | Responsive web page using fetch API, async/await, DOM manipulation and basic error handling.                                                    |[GitHub link](https://github.com/Bo-Br/web_project_test)        |
+|  **Level** 2️⃣   | Responsive web Portfolio using fetch API, async/await, DOM manipulation, error handling, local storage and local .json database manipulation... | [--IN PROGRESS--](https://github.com/Bo-Br/My-Portfolio_WebPrj)|
+
+
+
+**SQL**
+
+
+**Git**
+
+
+**Microsoft Office** (Word, Excel, PowerPoint)
 
 ---
+
+
+
 
 ### Media creation
 - DaVinci Resolve  
