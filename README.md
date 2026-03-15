@@ -50,6 +50,9 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 
 **SQL**
 
+**PHP** (In local with Laragon or xampp)
+
+**Frameworks** (Bootstrap, Wordpress)
 
 **Git**
 
