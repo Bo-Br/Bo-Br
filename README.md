@@ -43,8 +43,8 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 |Level     | Description |Link|
 |:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------:|
 |  **Level** 1️⃣   | Responsive web page using fetch API, async/await, DOM manipulation and basic error handling.                                                    |[GitHub link](https://github.com/Bo-Br/web_project_test)         |
-|  **Level** 2️⃣   | Responsive web Portfolio using fetch API, async/await, DOM manipulation, error handling, local storage and local .json database manipulation... | [--IN PROGRESS--](https://github.com/Bo-Br/My-Portfolio_WebPrj) |
-|  **Level** 3️⃣   | Responsive reservation website using HTML, CSS, JS, PHP, and SQL. Booking system with admin panel, and more                                     |[--IN PROGRESS--](https://github.com/Bo-Br/Fullstack_Web_Project)|
+|  **Level** 2️⃣   | Responsive web Portfolio using fetch API, async/await, DOM manipulation, error handling, local storage and local .json database manipulation... | [GitHub link](https://github.com/Bo-Br/My-Portfolio_WebPrj) |
+|  **Level** 3️⃣   | Responsive reservation website using HTML, CSS, JS, PHP, and SQL. Booking system with admin panel, and more                                     |[GitHub link](https://github.com/Bo-Br/Fullstack_Web_Project)|
 
 
 **SQL** (with PHPMyAdmin)
