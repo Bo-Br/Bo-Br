@@ -57,6 +57,12 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 
 **Microsoft Office** (Word, Excel, PowerPoint)
 
+**Network** (Wireshark, IPv4, IPv6 understanding, router and system configuration)
+
+**Virtualisation** (VMWare, Opacle VirtualBox)
+
+**Linux** (confident with linux interaction)
+
 ---
 
 
@@ -79,7 +85,7 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 
 ## Goals
 - Dive deeper into my understanding of programming
-- Developing my skills and knowledge in Cybersecurity and Web Dev 👀
+- Developing my skills and knowledge in Cybersecurity and Web Dev
 - Participate in projects involving teamwork  
 
 ---
