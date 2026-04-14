@@ -53,7 +53,7 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 
 - **Frameworks** (Bootstrap, Wordpress)
 
-- **Git** (GitBash)
+- **GitHub/gitLab** (GitBash)
 
 - **Microsoft Office** (Word, Excel, PowerPoint)
 
@@ -73,6 +73,9 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 | Basic Static Web Portfolio                                                  |[GitHub link](https://github.com/Bo-Br/marlene-seddorh-portfolio)        |
 | Basic Static Web Portfolio with dark and light mode functionality | [IN PROGRESS](https://github.com/Bo-Br/) |
 
+- **LLM** (ChatGPT, Claude, Grok)
+
+- **Local LLM's** (With Ollama, LMStudio)
 
 ---
 
