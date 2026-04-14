@@ -63,6 +63,15 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 
 **Linux** (confident with linux interaction)
 
+
+**Artificial Intelligence (AI)**
+
+| Description |Link|
+|:------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------:|
+| Basic Static Web Portfolio                                                  |[GitHub link]((https://github.com/Bo-Br/marlene-seddorh-portfolio))         |
+| Basic Static Web Portfolio with dark and light mode functionality | [IN PROGRESS](https://github.com/Bo-Br/) |
+
+
 ---
 
 
