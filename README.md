@@ -32,13 +32,13 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 
 
 
-**Python**
+- **Python**
 
 |Level            |Description                                                                                                                                              |Link                                                             |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|
 |  **Level** 1️⃣   | CLI password generator with customizable length and parameters, input validation, secrets module, and JSON-based data storage with categorized entries. |[GitHub link](https://github.com/Bo-Br/Python-Password-Generator)|
 
-**HTML / CSS / PHP / javascript + API Manipulation**
+- **HTML / CSS / PHP / javascript + API Manipulation**
 
 |Level     | Description |Link|
 |:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------:|
@@ -47,26 +47,26 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 |  **Level** 3️⃣   | Responsive reservation website using HTML, CSS, JS, PHP, and SQL. Booking system with admin panel, and more                                     |[GitHub link](https://github.com/Bo-Br/Fullstack_Web_Project)|
 
 
-**SQL** (with PHPMyAdmin)
+- **SQL** (with PHPMyAdmin)
 
-**PHP** (In local with Laragon or xampp)
+- **PHP** (In local with Laragon or xampp)
 
-**Frameworks** (Bootstrap, Wordpress)
+- **Frameworks** (Bootstrap, Wordpress)
 
-**Git** (GitBash)
+- **Git** (GitBash)
 
-**Microsoft Office** (Word, Excel, PowerPoint)
+- **Microsoft Office** (Word, Excel, PowerPoint)
 
-**Network** (Wireshark, IPv4, IPv6 understanding, router and system configuration)
+- **Network** (Wireshark, IPv4, IPv6 understanding, router and system configuration)
 
-**Virtualisation** (VMWare, Opacle VirtualBox)
+- **Virtualisation** (VMWare, Opacle VirtualBox)
 
-**Linux** (confident with linux interaction)
+- **Linux** (confident with linux interaction)
 
 
 ### **Artificial Intelligence (AI)**
 
-**Google AI Studio** (Simple Web Portfolio)
+- **Google AI Studio** (Simple Web Portfolio)
 
 | Description |Link|
 |:------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------:|
