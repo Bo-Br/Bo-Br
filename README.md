@@ -74,6 +74,7 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 | Professional Web Portfolio For a Customer  | [GitHub link](https://github.com/Bo-Br/web-portfolio-2) |
 | Professional Web Portfolio For a Customer  | [GitHub link](https://github.com/Bo-Br/web-portfolio-3) |
 | Discipline Tracker WebApp   (Online)       | [GitHub link](https://github.com/Bo-Br/Discipline-WebApp)|
+| Discipline Tracker WebApp   (Local)       | [GitHub link](https://github.com/Bo-Br/Discipline-WebApp-local)|
 
 - **LLM** (ChatGPT, Claude, Grok)
 
