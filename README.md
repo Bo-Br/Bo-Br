@@ -69,9 +69,11 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 - **Google AI Studio** (Simple Web Portfolio)
 
 | Description |Link|
-|:------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------:|
-| Basic Static Web Portfolio                                                  |[GitHub link](https://github.com/Bo-Br/marlene-seddorh-portfolio)        |
-| Basic Static Web Portfolio with dark and light mode functionality | [IN PROGRESS](https://github.com/Bo-Br/) |
+|:-------------------------------------------|:-------------------------------------------------------:|
+| Professional Web Portfolio For Myself      | [GitHub link](https://github.com/Bo-Br/web-portfolio-4) |
+| Professional Web Portfolio For a Customer  | [GitHub link](https://github.com/Bo-Br/web-portfolio-2) |
+| Professional Web Portfolio For a Customer  | [GitHub link](https://github.com/Bo-Br/web-portfolio-3) |
+| Discipline Tracker WebApp                  | [GitHub link](https://github.com/Bo-Br/web-portfolio-3) |
 
 - **LLM** (ChatGPT, Claude, Grok)
 
