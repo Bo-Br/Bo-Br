@@ -66,7 +66,7 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 
 ### **Artificial Intelligence (AI)**
 
-- **Google AI Studio** (Simple Web Portfolio)
+- **Google AI Studio** (Simple Web Projects)
 
 | Description |Link|
 |:-------------------------------------------|:-------------------------------------------------------:|
