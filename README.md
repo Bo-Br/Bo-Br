@@ -29,6 +29,11 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 
 ### IT and Dev
 
+## Available Projects
+|Your own Productivity Tracker                                                                              |   My Portfolio                                                  |
+|:----------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|<img width="220" height="250" alt="image" src="https://github.com/user-attachments/assets/5ad78e82-5c44-4420-9993-ce352e64a3aa" /> | <img width="220" height="250" alt="image" src="https://github.com/user-attachments/assets/cc8709ca-53bd-487c-af8e-f4c00581d297" />  |
+
 
 
 
@@ -106,6 +111,7 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 - Participate in projects involving teamwork  
 
 ---
+
 
 *Don't hesitate contacting me !*
 
