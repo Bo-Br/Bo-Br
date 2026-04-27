@@ -1,22 +1,23 @@
-# 👋 About me
+# 👋 About Me
 
-I have a passion for coding since **13 years old**, I started with visual programming on **Construct 2/3**, where I created a lot of small projects, a small amout of which I posted on **itch.io**.  
+I am a first-year IT student at École IT, currently focusing on web development and software engineering fundamentals.
 
-Since june **2025**, I'm learning **Godot**, a more complex game engine.
+I started programming through game development (Construct 2/3, Godot), which helped me understand logic, structure, and problem-solving. Over time, I transitioned toward web development, where I currently build full-stack projects using modern web technologies.
 
-Curious about **Cybersecurity**, I explored a lot of Linux distributions such as linux **Mint**, **Kali** or **Tails**, and aquired some basic knowledge in **OSINT** with tools like *Sherlock*, or just simply *Google* (cause it's about ***open source** intelligence*, right?).
-
-***Well, there's a kinda funny update :*** 
-
-- since I started Web Dev in January 2026 I am beginning to enjoy it to a point where I am even thinking to maybe work in this field, instead of doing cybersecurity.
-
-In parallel of Informational technologies, I have a lot of other interests such as **music**, **magic tricks**, and **sport**.
-
-I am now at my first year in a IT school **"École IT"**, and I always search for new knowledge and opportunities !
+I enjoy building practical applications rather than purely theoretical exercises, and I use each project as a way to improve my understanding of real-world development workflows.
 
 ---
 
-## Skills 
+# Current Focus
+
+- Web Development (Frontend + Backend)
+- APIs and data handling
+- Database-driven applications (SQL / PHP)
+- Software architecture basics
+- Improving code structure and project scalability
+
+---
+
 
 ### Personality
 - Good comunication
@@ -26,93 +27,88 @@ I am now at my first year in a IT school **"École IT"**, and I always search fo
 - Always on time
 - Critical thinking
 
+# 🛠 Tech Stack
 
-### IT and Dev
+### Languages
+- Python
+- JavaScript
+- HTML / CSS
+- PHP
+- SQL
 
+### Web Development
+- REST APIs
+- DOM manipulation
+- Fetch API / async programming
+- Responsive design
+
+### Tools
+- Git / GitHub
+- VS Code
+- Laragon / XAMPP
+- Linux (basic to intermediate usage)
+
+### Additional Knowledge
+- Networking fundamentals (IPv4, DNS, HTTP basics)
+- Virtualization (VirtualBox, VMware)
+- Basic system administration concepts
+
+---
+
+# Projects
+
+## Full-Stack Booking System
+PHP + SQL web application with authentication, admin panel, and full CRUD functionality for managing reservations and users.  
+GitHub: https://github.com/Bo-Br/Fullstack_Web_Project
+
+---
+
+## Portfolio Websites
+Responsive web portfolio projects built with HTML, CSS, JavaScript and API integration. Includes dynamic content rendering and local data handling.  
+GitHub: https://github.com/Bo-Br/My-Portfolio_WebPrj
+
+---
+
+## Web Portfolio Projects (AI-assisted)
+Multiple portfolio implementations generated and refined using web technologies and API-based tools. Focus on layout, responsiveness, and structure.  
+GitHub:
+- https://github.com/Bo-Br/web-portfolio-2  
+- https://github.com/Bo-Br/web-portfolio-3  
+- https://github.com/Bo-Br/web-portfolio-4  
+
+---
+
+## Discipline Tracker App
+Web application for productivity tracking with local storage and dynamic UI updates.  
+Online version: https://github.com/Bo-Br/Discipline-WebApp  
+Local version: https://github.com/Bo-Br/Discipline-WebApp-local  
+
+---
+
+## Python Password Generator
+CLI tool for secure password generation with customizable parameters, validation, and JSON-based storage system.  
+GitHub: https://github.com/Bo-Br/Python-Password-Generator  
+
+---
+
+## Web Test Project
+Basic frontend project demonstrating fetch API usage, async/await, and DOM manipulation.  
+GitHub: https://github.com/Bo-Br/web_project_test
 ## Available Projects
 |Your own Productivity Tracker                                                                              |   My Portfolio                                                  |
 |:----------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |<img width="220" height="250" alt="image" src="https://github.com/user-attachments/assets/5ad78e82-5c44-4420-9993-ce352e64a3aa" /> | <img width="220" height="250" alt="image" src="https://github.com/user-attachments/assets/cc8709ca-53bd-487c-af8e-f4c00581d297" />  |
 
 
+---
 
+# What I am looking for
 
-- **Python**
+I am currently seeking:
+- Internship (stage)
+- Alternance in web development or software engineering
 
-|Level            |Description                                                                                                                                              |Link                                                             |
-|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|
-|  **Level** 1️⃣   | CLI password generator with customizable length and parameters, input validation, secrets module, and JSON-based data storage with categorized entries. |[GitHub link](https://github.com/Bo-Br/Python-Password-Generator)|
-
-- **HTML / CSS / PHP / javascript + API Manipulation**
-
-|Level     | Description |Link|
-|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------:|
-|  **Level** 1️⃣   | Responsive web page using fetch API, async/await, DOM manipulation and basic error handling.                                                    |[GitHub link](https://github.com/Bo-Br/web_project_test)         |
-|  **Level** 2️⃣   | Responsive web Portfolio using fetch API, async/await, DOM manipulation, error handling, local storage and local .json database manipulation... | [GitHub link](https://github.com/Bo-Br/My-Portfolio_WebPrj) |
-|  **Level** 3️⃣   | Responsive reservation website using HTML, CSS, JS, PHP, and SQL. Booking system with admin panel, and more                                     |[GitHub link](https://github.com/Bo-Br/Fullstack_Web_Project)|
-
-
-- **SQL** (with PHPMyAdmin)
-
-- **PHP** (In local with Laragon or xampp)
-
-- **Frameworks** (Bootstrap, Wordpress)
-
-- **GitHub/gitLab** (GitBash)
-
-- **Microsoft Office** (Word, Excel, PowerPoint)
-
-- **Network** (Wireshark, IPv4, IPv6 understanding, router and system configuration)
-
-- **Virtualisation** (VMWare, Opacle VirtualBox)
-
-- **Linux** (confident with linux interaction)
-
-
-### **Artificial Intelligence (AI)**
-
-- **Google AI Studio** (Simple Web Projects)
-
-| Description |Link|
-|:-------------------------------------------|:-------------------------------------------------------:|
-| Professional Web Portfolio For Myself      | [GitHub link](https://github.com/Bo-Br/web-portfolio-4) |
-| Professional Web Portfolio For a Customer  | [GitHub link](https://github.com/Bo-Br/web-portfolio-2) |
-| Professional Web Portfolio For a Customer  | [GitHub link](https://github.com/Bo-Br/web-portfolio-3) |
-| Discipline Tracker WebApp   (Online)       | [GitHub link](https://github.com/Bo-Br/Discipline-WebApp)|
-| Discipline Tracker WebApp   (Local)       | [GitHub link](https://github.com/Bo-Br/Discipline-WebApp-local)|
-
-- **LLM** (ChatGPT, Claude, Grok)
-
-- **Local LLM's** (With Ollama, LMStudio)
+My goal is to gain real-world experience in a development team, improve my technical skills, and contribute to production-level projects.
 
 ---
 
-
-
-
-### Media creation
-- DaVinci Resolve  
-- OBS Studio  
-- Audacity  
-- RekordBox  
-
----
-
-## Languages
-- 🇫🇷 **French** - Native
-- 🇷🇺 **Russian** - C2  
-- 🇬🇧 **English** - C1  
-
----
-
-## Goals
-- Dive deeper into my understanding of programming
-- Developing my skills and knowledge in Cybersecurity and Web Dev
-- Participate in projects involving teamwork  
-
----
-
-
-*Don't hesitate contacting me !*
-
-###### made without AI btw :)
