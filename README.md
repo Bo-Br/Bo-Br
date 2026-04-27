@@ -26,6 +26,11 @@ I enjoy building practical applications rather than purely theoretical exercises
 - Dinamic
 - Always on time
 - Critical thinking
+  
+## Languages
+- 🇫🇷 **French** - Native
+- 🇷🇺 **Russian** - C2  
+- 🇬🇧 **English** - C1  
 
 # 🛠 Tech Stack
 
