@@ -1,12 +1,30 @@
 # 👋 About Me
 
-I am a first-year IT student at École IT, currently focusing on web development and software engineering fundamentals.
+```python
 
-I started programming through game development (Construct 2/3, Godot), which helped me understand logic, structure, and problem-solving. Over time, I transitioned toward web development, where I currently build full-stack projects using modern web technologies.
+class User :
+  def __init__(self, name, age, role):
+    self.age = age
+    self.name = name
+    self.role = role
 
-I enjoy building practical applications rather than purely theoretical exercises, and I use each project as a way to improve my understanding of real-world development workflows.
+  def greet(self):
+    print(f"Hi, my name is {self.name}, I'm {self.age} years old, and I'm a {self.role} !")
+    return
+    
 
----
+me = User("Bogdane", 19, "Junior Web Dev / Sys admin")
+me.greet
+
+```
+
+```text
+Hi, my name is Bogdane, I'm 19 years old, and I'm a Junior Web Dev / Sys admin !
+
+```
+
+# More about me in my [Portfolio](https://bogdane-braoun.netlify.app/)
+
 
 # Current Focus
 
