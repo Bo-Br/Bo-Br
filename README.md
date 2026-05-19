@@ -74,7 +74,7 @@ Hi, my name is Bogdane, I'm 19 years old, and I'm a Junior Web Dev / Sys admin !
 ### Additional Knowledge
 - Networking fundamentals (IPv4, DNS, HTTP basics)
 - Virtualization (VirtualBox, VMware)
-- Basic system administration concepts
+- Basic system administration concepts (AD, DNS config, DHCP)
 
 ---
 
