@@ -33,6 +33,8 @@ Hi, my name is Bogdane, I'm 19 years old, and I'm a Junior Web Dev / Sys admin !
 - Database-driven applications (SQL / PHP)
 - Software architecture basics
 - Improving code structure and project scalability
+- Cybersecurity fundamentals and system hardening
+- Linux and network security basics
 
 ---
 
@@ -75,6 +77,9 @@ Hi, my name is Bogdane, I'm 19 years old, and I'm a Junior Web Dev / Sys admin !
 - Networking fundamentals (IPv4, DNS, HTTP basics)
 - Virtualization (VirtualBox, VMware)
 - Basic system administration concepts (AD, DNS config, DHCP)
+- Cybersecurity fundamentals (CIA triad, risk analysis, hardening)
+- Basic firewall and VPN configuration
+- Linux/Windows security practices
 
 ---
 
