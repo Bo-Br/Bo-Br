@@ -22,7 +22,7 @@
 >
 > ## ⚠️ LOOKING FOR AN ALTERNANCE IN SYSTEM ADMINISTRATION / IT SUPPORT ⚠️
 
-<div align="center">
+
 	
 ```python
 
@@ -49,6 +49,7 @@ Hi, my name is Bogdane, I'm 19 years old, and I'm a Junior Web Dev / Sys admin !
 
 
 
+
 # More about me in my [Portfolio](https://bogdane-braoun.netlify.app/)
 
 
@@ -63,6 +64,7 @@ Hi, my name is Bogdane, I'm 19 years old, and I'm a Junior Web Dev / Sys admin !
 
 ---
 
+<div align="center">
 
 ### Personality
 - Good comunication
