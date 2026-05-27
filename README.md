@@ -95,33 +95,34 @@ Critical thinking
 
 
 # 🛠 Tech Stack
-
-### Languages
-- Python
+|### Languages|### Web Development|### Tools|### Additional Knowledge|
+|:------:|:------:|:------:|:------:|
+|- Python
 - JavaScript
 - HTML / CSS
 - PHP
-- SQL
-
-### Web Development
-- REST APIs
+- SQL|- REST APIs
 - DOM manipulation
 - Fetch API / async programming
-- Responsive design
-
-### Tools
-- Git / GitHub
+- Responsive design|- Git / GitHub
 - VS Code
 - Laragon / XAMPP
-- Linux (basic to intermediate usage)
-
-### Additional Knowledge
-- Networking fundamentals (IPv4, DNS, HTTP basics)
+- Linux (basic to intermediate usage)|- Networking fundamentals (IPv4, DNS, HTTP basics)
 - Virtualization (VirtualBox, VMware)
 - Basic system administration concepts (AD, DNS config, DHCP)
 - Cybersecurity fundamentals (CIA triad, risk analysis, hardening)
 - Basic firewall and VPN configuration
 - Linux/Windows security practices
+|
+
+
+
+
+
+
+
+
+
 
 ---
 
