@@ -66,7 +66,7 @@ Hi, my name is Bogdane, I'm 19 years old, and I'm a Junior Web Dev / Sys admin !
 
 <div align="center">
 
-### Personality
+###     Personality
 - Good comunication
 - Team friendly
 - Ability for adaptation
@@ -74,10 +74,14 @@ Hi, my name is Bogdane, I'm 19 years old, and I'm a Junior Web Dev / Sys admin !
 - Always on time
 - Critical thinking
   
-## Languages
+##     Languages
 - 🇫🇷 **French** - Native
 - 🇷🇺 **Russian** - C2  
 - 🇬🇧 **English** - C1  
+
+
+</div>
+
 
 # 🛠 Tech Stack
 
@@ -147,8 +151,6 @@ GitHub: https://github.com/Bo-Br/Python-Password-Generator
 
 
 ---
-
-</div>
 
 
 # What I am looking for
