@@ -79,7 +79,7 @@ Always on time
 
 Critical thinking
   
-##   -- Languages --
+###   -- Languages --
 🇫🇷 **French** - Native
 
 🇷🇺 **Russian** - C2  
