@@ -16,12 +16,14 @@
 
 </div>
 
-<div align="center">
+
 	
 > [!IMPORTANT]
 >
 > ## ⚠️ LOOKING FOR AN ALTERNANCE IN SYSTEM ADMINISTRATION / IT SUPPORT ⚠️
 
+<div align="center">
+	
 ```python
 
 class User :
