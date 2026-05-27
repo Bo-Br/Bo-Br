@@ -9,17 +9,18 @@
 ```txt
 	
 ╔════════════════════════════════════════════════════════════╗
- ║     SYSTEM ADMINISTRATION • IT SUPPORT • CYBERSECURITY   ║
+║    SYSTEM ADMINISTRATION • IT SUPPORT • CYBERSECURITY   ║
 ╚════════════════════════════════════════════════════════════╝
 
 ```
 
 </div>
 
-
+<div align="center">
+	
 > [!IMPORTANT]
 >
-> ## 🚀 LOOKING FOR AN ALTERNANCE IN SYSTEM ADMINISTRATION / NETWORK SUPPORT
+> ## ⚠️ LOOKING FOR AN ALTERNANCE IN SYSTEM ADMINISTRATION / IT SUPPORT ⚠️
 
 ```python
 
@@ -140,6 +141,9 @@ GitHub: https://github.com/Bo-Br/Python-Password-Generator
 
 
 ---
+
+</div>
+
 
 # What I am looking for
 
