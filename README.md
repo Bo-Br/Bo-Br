@@ -78,7 +78,9 @@ Dinamic
 Always on time
 
 Critical thinking
-  
+
+------
+
 ###   -- Languages --
 🇫🇷 **French** - Native
 
@@ -91,8 +93,6 @@ Critical thinking
 
 
 # 🛠 Tech Stack
-
----
 
 ### Languages
 - Python
