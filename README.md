@@ -83,44 +83,33 @@ Hi, my name is Bogdane, I'm 19 years old, and I'm a Junior Web Dev / Sys admin !
 ---
 
 # Projects
+## Web projects (No AI)
 
-## Full-Stack Booking System
-PHP + SQL web application with authentication, admin panel, and full CRUD functionality for managing reservations and users.  
-GitHub: https://github.com/Bo-Br/Fullstack_Web_Project
-
----
-
-## Portfolio Websites
-Responsive web portfolio projects built with HTML, CSS, JavaScript and API integration. Includes dynamic content rendering and local data handling.  
-GitHub: https://github.com/Bo-Br/My-Portfolio_WebPrj
-
----
-
-## Web Portfolio Projects (AI-assisted)
-Multiple portfolio implementations generated and refined using web technologies and API-based tools. Focus on layout, responsiveness, and structure.  
+-Full-Stack Booking System
+	PHP + SQL web application with authentication, admin panel, and full CRUD functionality for managing reservations and users.  
+	GitHub: https://github.com/Bo-Br/Fullstack_Web_Project
+	
+-Portfolio Website
+	Responsive web portfolio projects built with HTML, CSS, JavaScript and API integration. Includes dynamic content rendering and local data handling.  
+	GitHub: https://github.com/Bo-Br/My-Portfolio_WebPrj
+	
+-Web Test Project
+	Basic frontend project demonstrating fetch API usage, async/await, and DOM manipulation.  
+	GitHub: https://github.com/Bo-Br/web_project_test
+## Web Projects (AI-assisted)
+Multiple website implementations generated and refined using web technologies and API-based tools. Focus on layout, responsiveness, and structure.  
 GitHub:
 - https://github.com/Bo-Br/web-portfolio-2  
 - https://github.com/Bo-Br/web-portfolio-3  
 - https://github.com/Bo-Br/web-portfolio-4  
-
----
-
-## Discipline Tracker App
-Web application for productivity tracking with local storage and dynamic UI updates.  
-Online version: https://github.com/Bo-Br/Discipline-WebApp  
-Local version: https://github.com/Bo-Br/Discipline-WebApp-local  
-
----
-
+-- Productivity App
+	Online version: https://github.com/Bo-Br/Discipline-WebApp  
+	Local version: https://github.com/Bo-Br/Discipline-WebApp-local  
+	
 ## Python Password Generator
 CLI tool for secure password generation with customizable parameters, validation, and JSON-based storage system.  
 GitHub: https://github.com/Bo-Br/Python-Password-Generator  
 
----
-
-## Web Test Project
-Basic frontend project demonstrating fetch API usage, async/await, and DOM manipulation.  
-GitHub: https://github.com/Bo-Br/web_project_test
 ## Available Projects
 |Your own Productivity Tracker                                                                              |   My Portfolio                                                  |
 |:----------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -132,8 +121,7 @@ GitHub: https://github.com/Bo-Br/web_project_test
 # What I am looking for
 
 I am currently seeking:
-- Internship (stage)
-- Alternance in web development or software engineering
+- Alternance in network administration
 
 My goal is to gain real-world experience in a development team, improve my technical skills, and contribute to production-level projects.
 
