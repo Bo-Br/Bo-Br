@@ -1,5 +1,6 @@
-
-# BOGDANE BRAOUN
+<div align="center">
+	
+# | BOGDANE BRAOUN |
 
 </div>
 
