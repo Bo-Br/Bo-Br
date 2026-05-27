@@ -9,7 +9,7 @@
 ```txt
 	
 ╔════════════════════════════════════════════════════════════╗
-║      SYSTEM ADMINISTRATION • IT SUPPORT • CYBERSECURITY   ║
+ ║     SYSTEM ADMINISTRATION • IT SUPPORT • CYBERSECURITY   ║
 ╚════════════════════════════════════════════════════════════╝
 
 ```
