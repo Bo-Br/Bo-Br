@@ -1,7 +1,18 @@
-# 👋 About Me
+<div align="center">
+	
+# BOGDANE BRAOUN
+	
+```txt
+╔════════════════════════════════════════════════════════════╗
+║      SYSTEM ADMINISTRATION • IT SUPPORT • CYBERSECURITY   ║
+╚════════════════════════════════════════════════════════════╝
+```
 
-> [!WARNING]
-> # **Looking for an Alternance in ***System Administration / IT Support*** !**
+</div>
+
+> [!IMPORTANT]
+>
+> ## 🚀 LOOKING FOR AN ALTERNANCE IN SYSTEM ADMINISTRATION / NETWORK SUPPORT
 
 ```python
 
