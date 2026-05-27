@@ -20,7 +20,7 @@
 	
 > [!IMPORTANT]
 >
-> ## ⚠️ LOOKING FOR AN ALTERNANCE IN SYSTEM ADMINISTRATION / IT SUPPORT ⚠️
+> ## ⚠️LOOKING FOR AN ALTERNANCE IN SYSTEM ADMINISTRATION / IT SUPPORT⚠️
 
 
 	
@@ -80,6 +80,8 @@ Hi, my name is Bogdane, I'm 19 years old, and I'm a Junior Web Dev / Sys admin !
 - 🇬🇧 **English** - C1  
 
 # 🛠 Tech Stack
+
+---
 
 ### Languages
 - Python
