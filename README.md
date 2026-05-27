@@ -1,5 +1,8 @@
 # 👋 About Me
 
+> [!WARNING]
+> # **Looking for an Alternance in ***System Administration / IT Support***
+
 ```python
 
 class User :
@@ -22,6 +25,8 @@ me.greet
 Hi, my name is Bogdane, I'm 19 years old, and I'm a Junior Web Dev / Sys admin !
 
 ```
+
+
 
 # More about me in my [Portfolio](https://bogdane-braoun.netlify.app/)
 
