@@ -1,12 +1,9 @@
 <div align="center">
 	
 # BOGDANE BRAOUN
-	
-```txt
 ╔════════════════════════════════════════════════════════════╗
 ║      SYSTEM ADMINISTRATION • IT SUPPORT • CYBERSECURITY   ║
 ╚════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
