@@ -66,18 +66,18 @@ Hi, my name is Bogdane, I'm 19 years old, and I'm a Junior Web Dev / Sys admin !
 
 <div align="center">
 
-###     Personality
-- Good comunication
-- Team friendly
-- Ability for adaptation
-- Dinamic
-- Always on time
-- Critical thinking
+###  -- Personality --
+Good comunication
+Team friendly
+Ability for adaptation
+Dinamic
+Always on time
+Critical thinking
   
-##     Languages
-- 🇫🇷 **French** - Native
-- 🇷🇺 **Russian** - C2  
-- 🇬🇧 **English** - C1  
+##   -- Languages --
+🇫🇷 **French** - Native
+🇷🇺 **Russian** - C2  
+🇬🇧 **English** - C1  
 
 
 </div>
