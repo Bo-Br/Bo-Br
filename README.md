@@ -1,7 +1,7 @@
 # 👋 About Me
 
 > [!WARNING]
-> # **Looking for an Alternance in ***System Administration / IT Support***
+> # **Looking for an Alternance in ***System Administration / IT Support*** !**
 
 ```python
 
