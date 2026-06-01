@@ -58,9 +58,7 @@ Hi, my name is Bogdane, I'm 19 years old, and I'm a Junior Web Dev / Sys admin !
 - Cybersecurity fundamentals and system hardening
 - Linux and network security basics
 - Improving code structure and project scalability
-- Web Development (Frontend + Backend)
-- APIs and data handling
-- Database-driven applications (SQL / PHP)
+
 
 ---
 
