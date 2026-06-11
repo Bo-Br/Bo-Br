@@ -116,7 +116,7 @@ Critical thinking
 ### Additional Knowledge
 - Networking fundamentals (IPv4, DNS, HTTP basics)
 - Virtualization (VirtualBox, VMware)
-- Basic system administration concepts (AD, DNS config, DHCP)
+- System administration (AD, DNS, DHCP)
 - Cybersecurity fundamentals (CIA triad, risk analysis, hardening)
 - Basic firewall and VPN configuration
 - Linux/Windows security practices
