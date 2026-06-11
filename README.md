@@ -130,6 +130,14 @@ Critical thinking
 ---
 
 # Projects
+
+## Infrastructure projects
+
+-Mini Infrastructure for small and medium enterprises.
+	An infrastructure with Active Directory, DNS, DHCP, a client machine, a file server, and a file backup server.
+	GitHub: https://github.com/4h4ze/Mini-DSI-pour-pme
+
+
 ## Web projects (No AI)
 
 -Full-Stack Booking System
