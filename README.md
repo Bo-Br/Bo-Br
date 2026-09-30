@@ -177,8 +177,7 @@ GitHub: https://github.com/Bo-Br/Python-Password-Generator
 # What I am looking for
 
 I am currently seeking:
-- Alternance in network administration
-
+- Just to progress !
 My goal is to gain real-world experience in a development team, improve my technical skills, and contribute to production-level projects.
 
 ---
