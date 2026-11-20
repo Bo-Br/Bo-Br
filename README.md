@@ -118,7 +118,7 @@ Critical thinking
 - Virtualization (VirtualBox, VMware)
 - System administration (AD, DNS, DHCP)
 - Cybersecurity fundamentals (CIA triad, risk analysis, hardening)
-- Basic firewall and VPN configuration
+- Basic firewall and Advanced VPN configuration (Wireguard, port forwarding)
 - Linux/Windows security practices
 
 
